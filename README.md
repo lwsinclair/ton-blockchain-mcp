@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devonmojito-ton-blockchain-mcp-badge.png)](https://mseep.ai/app/devonmojito-ton-blockchain-mcp)
+
 # TON BLOCKCHAIN MCP 
 
 A Model Context Protocol (MCP) server for natural language interaction with the [TON blockchain](http://ton.org/).
